@@ -1,3 +1,6 @@
+#!/bin/bash
+
+cat <<EOF > anima.ls
 Giraffe
 Affe
 Elefant
@@ -22,3 +25,4 @@ Uhu
 Eule
 Adler
 Frettchen
+EOF
